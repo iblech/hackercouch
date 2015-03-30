@@ -15,5 +15,5 @@ It’s like CouchSurfing, except CouchSurfing sucks. So does AirBnB, hostels and
 
 ## Crash on my couch
 
-* couch in Augsburg, near the university
+* couch in Augsburg, Germany, near the university
 
